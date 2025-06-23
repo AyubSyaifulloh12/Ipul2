@@ -1,0 +1,126 @@
+{
+  "6285169829935": {
+    "name": "repanpino",
+    "password": "iclikboyy"
+  },
+  "6285765356481": {
+    "name": "king",
+    "password": "king kodok"
+  },
+  "6282256751166": {
+    "name": "Reybot",
+    "password": "Susirey2012"
+  },
+  "6283102096893": {
+    "name": "ibel",
+    "password": "ibelp9"
+  },
+  "+62 895-3295-47707": {
+    "name": "ibel",
+    "password": "ibels6"
+  },
+  "+62 831-1568-2667": {
+    "name": "ibel",
+    "password": "ibels4"
+  },
+  "6283115682667": {
+    "name": "ibel",
+    "password": "ibels3"
+  },
+  "62895360689046": {
+    "name": "pan",
+    "password": "gameepep"
+  },
+  "6288708206686": {
+    "name": "ibel",
+    "password": "ibels2"
+  },
+  "6283138510531": {
+    "name": "ibel",
+    "password": "ibels6"
+  },
+  "6283152956289": {
+    "name": "noize3",
+    "password": "noizeesigmaaa3"
+  },
+  "6281934160255": {
+    "name": "Alya",
+    "password": "alya8"
+  },
+  "6285129690306": {
+    "name": "26",
+    "password": "ridho"
+  },
+  "6283142919019": {
+    "name": "regxxz",
+    "password": "regagntg"
+  },
+  "6283142919035": {
+    "name": "regxxz",
+    "password": "regagntg"
+  },
+  "6282381464687": {
+    "name": "jonathan",
+    "password": "110011"
+  },
+  "6281274601844": {
+    "name": "yuki",
+    "password": "yukii01"
+  },
+  "081338461840": {
+    "name": "yuki",
+    "password": "yukii01"
+  },
+  "6281299811853": {
+    "name": "yuki",
+    "password": "yukii01"
+  },
+  "6281332685957": {
+    "name": "15",
+    "password": "15"
+  },
+  "6285189011714": {
+    "name": "10",
+    "password": "10"
+  },
+  "6281324884782": {
+    "name": "10",
+    "password": "10"
+  },
+  "6282160770469": {
+    "name": "noize3",
+    "password": "noizeesigmaaa3"
+  },
+  "6285929864105": {
+    "name": "per",
+    "password": "per"
+  },
+  "+6281252526679": {
+    "name": "nizar",
+    "password": "nizarpacardavinakaramoyke1"
+  },
+  "6281252526679": {
+    "name": "nizar",
+    "password": "nizar1"
+  },
+  "6289508656023": {
+    "name": "10",
+    "password": "10"
+  },
+  "6283133277542": {
+    "name": "10",
+    "password": "10"
+  },
+  "6285810271998": {
+    "name": "10",
+    "password": "10"
+  },
+  "6281325107002": {
+    "name": "10",
+    "password": "10"
+  },
+  "6285194297305": {
+    "name": "10",
+    "password": "10"
+  }
+}
